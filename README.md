@@ -1,3 +1,2 @@
-# this should be main header
-## this should mean second header
-this should mean normal text
+# Build a simple motion detection program using cv2
+
